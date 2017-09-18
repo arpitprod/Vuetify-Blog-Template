@@ -1,8 +1,11 @@
-# Vuetify-Blog-Template
-This is Blog Index Page with help vuetify vue framework
+<<<<<<< HEAD
+# blog-vuetify
+
+> A Vue.js project
 
 ## Build Setup
 
+``` bash
 # install dependencies
 npm install
 
@@ -14,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Vuetify-Blog-Template
+This is Blog Index Page with help vuetify vue framework
+>>>>>>> 39bdcfff5816ff333e79ba3c0a3ff97fca4e8dd6
