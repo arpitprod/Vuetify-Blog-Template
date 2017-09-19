@@ -1,23 +1,19 @@
-<<<<<<< HEAD
-# blog-vuetify
-
-> A Vue.js project
+# Vuetify-Blog-Template
+This is Blog Index Page with help vuetify vue framework
 
 ## Build Setup
 
-``` bash
-# install dependencies
+### install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+### serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
+### build for production with minification
 npm run build
-```
+<<<<<<< HEAD
+
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 =======
-# Vuetify-Blog-Template
-This is Blog Index Page with help vuetify vue framework
->>>>>>> 39bdcfff5816ff333e79ba3c0a3ff97fca4e8dd6
+>>>>>>> 07beb03be46fbfb3eb53e1e00416207850c43808
