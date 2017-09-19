@@ -7,10 +7,10 @@
 						<v-layout row>
 							<v-flex xs2></v-flex>
 							<v-flex xs5>
-								<img class="mr-1 hdrImg" src="/static/facebook_icon.png" href="#" />
-								<img class="mr-1 hdrImg" src="/static/Twitter_icon.png" href="#" />
-								<img class="mr-1 hdrImg" src="/static/Linkedin_icon.png" href="#" />
-								<img class="mr-1 hdrImg" src="/static/Youtube_icon.png" href="#" />
+								<img class="mr-1 hdrImg" src="public/facebook_icon.png" href="#" />
+								<img class="mr-1 hdrImg" src="public/Twitter_icon.png" href="#" />
+								<img class="mr-1 hdrImg" src="public/Linkedin_icon.png" href="#" />
+								<img class="mr-1 hdrImg" src="public/Youtube_icon.png" href="#" />
 							</v-flex>
 						</v-layout>
 					</div>
@@ -99,17 +99,17 @@
 						<v-layout row>
 							<v-flex xs2></v-flex>
 							<v-flex xs3 class="mt-5">
-								<img src="/static/Blog_Map.jpg" height="100px" class="my-3"/>
+								<img src="public/Blog_Map.jpg" height="100px" class="my-3"/>
 								<v-layout row>
 									<v-flex xs4>
 										<span class="grey--text text--lighten">FOLLOW US</span>
 									</v-flex>
 									<v-flex xs8>
 										<v-spacer></v-spacer>
-										<img class="mr-1 fbImg" src="/static/facebook_Blk_icon.png" href="#" />
-										<img class="mr-1 fbImg" src="/static/Twitter_Blk_icon.png" href="#" />
-										<img class="mr-1 fbImg" src="/static/Linkedin_Blk_icon.png" href="#" />
-										<img class="mr-1 fbImg" src="/static/Youtube_Blk_icon.png" href="#" />
+										<img class="mr-1 fbImg" src="public/facebook_Blk_icon.png" href="#" />
+										<img class="mr-1 fbImg" src="public/Twitter_Blk_icon.png" href="#" />
+										<img class="mr-1 fbImg" src="public/Linkedin_Blk_icon.png" href="#" />
+										<img class="mr-1 fbImg" src="public/Youtube_Blk_icon.png" href="#" />
 									</v-flex>
 								</v-layout>
 							</v-flex>
@@ -177,7 +177,7 @@ export default {
 		posts: [
 			{
 				title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
-				image: '/static/Blog_pic.jpg',
+				image: 'public/Blog_pic.jpg',
 				author: 'MANISH CHAUHAN',
 				date: '2016-02-12T03:16:00Z',
 				description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
@@ -185,7 +185,7 @@ export default {
 			},
 			{
 				title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
-				image: '/static/Blog_pic1.jpg',
+				image: 'public/Blog_pic1.jpg',
 				author: 'MANISH CHAUHAN',
 				date: '2016-12-12T10:32:00Z',
 				description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
@@ -193,7 +193,7 @@ export default {
 			},
 			{
 				title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
-				image: '/static/Blog_pic2.jpg',
+				image: 'public/Blog_pic2.jpg',
 				author: 'MANISH CHAUHAN',
 				date: '2017-01-27T17:51:00Z',
 				description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
@@ -201,7 +201,7 @@ export default {
 			},
 			{
 				title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
-				image: '/static/Blog_pic3.jpg',
+				image: 'public/Blog_pic3.jpg',
 				author: 'MANISH CHAUHAN',
 				date: '2017-01-27T17:51:00Z',
 				description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
@@ -210,22 +210,22 @@ export default {
 		],
 		popularPost: [
 			{
-				image: '/static/Blog_img.jpg',
+				image: 'public/Blog_img.jpg',
 				title: 'What people consider themselves?',
 				desc: '70% investors are "Asset Poor" - What about you?'
 			},
 			{
-				image: '/static/Blog_img1.jpg',
+				image: 'public/Blog_img1.jpg',
 				title: 'What people consider themselves?',
 				desc: '70% investors are "Asset Poor" - What about you?'
 			},
 			{
-				image: '/static/Blog_img2.jpg',
+				image: 'public/Blog_img2.jpg',
 				title: 'What people consider themselves?',
 				desc: '70% investors are "Asset Poor" - What about you?'
 			},
 			{
-				image: '/static/Blog_img3.jpg',
+				image: 'public/Blog_img3.jpg',
 				title: 'What people consider themselves?',
 				desc: '70% investors are "Asset Poor" - What about you?'
 			}
