@@ -12,4 +12,7 @@ npm run dev
 ### build for production with minification
 npm run build
 
+We can check here 
+
+https://arpitprod.github.io/Vuetify-Blog-Template/
 
